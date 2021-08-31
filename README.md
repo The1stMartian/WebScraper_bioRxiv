@@ -43,7 +43,7 @@ Overall, this exercise has been informative about a number of trends across biol
 
 ## Technical methodologies and statistical analyses:
 
-The bioRxiv scraper can be [downoladed](https://github.com/The1stMartian/bioRxiv_scraper) from github.
+The bioRxiv scraper is available [here](https://github.com/The1stMartian/bioRxiv_scraper) from github.
 
 After scraping the bioRxiv data using Selenium with Python, I analyzed the data in R Studio. Perhaps unsurprisingly, the identify_outliers function and QQ plots show that the viewing metrics are not normally distributed, due to outlier manuscripts with extremely high numbers of views. 
 
